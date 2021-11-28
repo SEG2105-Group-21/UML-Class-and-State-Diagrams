@@ -1,6 +1,6 @@
 # UML-Class-and-State-Diagrams
 
-Utilized the object-oriented modelling tool, Umple, to create UML class diagrams and UML state machine diagrams for a hypothetical ticketing system.
+Utilized the object-oriented modelling tool, Umple, to create UML class diagrams and UML state machine diagrams for a hypothetical concert ticketing system.
 
 *NOTE: The code ressembles Java code, but is not Java code. This is Umple code and can only be used on https://cruise.umple.org/umpleonline/ to generate UML diagrams.*
 
