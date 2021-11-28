@@ -4,7 +4,7 @@ Utilized the object-oriented modelling tool, Umple, to create UML class diagrams
 
 ## System Description
 
-You are asked to design a system that will allow individuals to book concert
+Design a system that will allow individuals to book concert
 tickets. The system supports two types of users: artists and customers. All
 users are identified by their name, email, and phone number.
 In order to schedule a tour and performances, the artist user must be verified.
